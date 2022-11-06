@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT modeoftransport (car+)>
+<!ELEMENT car (brand, seats)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT seats (#PCDATA)>
+<!ATTLIST car id ID #REQUIRED>
