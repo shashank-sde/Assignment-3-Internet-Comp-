@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modeoftransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="xmldoc1.xsd">
+   <car id="A1">
+      <brand>Ford</brand>
+      <seats>5</seats>
+   </car>
+   <car id="A2">
+      <brand>BMW</brand>
+      <seats>7</seats>
+   </car>
+</modeoftransport>
+
